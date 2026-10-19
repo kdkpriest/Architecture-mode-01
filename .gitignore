@@ -1,0 +1,10 @@
+
+# Secret environment files
+.env
+.env.*
+
+# Terraform local and sensitive files
+*.tfvars
+*.tfstate
+*.tfstate.*
+.terraform/
